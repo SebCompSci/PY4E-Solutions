@@ -1,8 +1,5 @@
+#13.01 Using Web Services
 #Write a program that prompts for a URL, reads the XML data from that URL using urllib and then parses and extracts the comment counts from the XML data and computes the sum of the numbers.
-#We provide 2 files for this assignment.
-#One is a sample file where we give you the sum for your testing and the other is the actual data you need to process for the assignment.
-# sample data: 'http://py4e-data.dr-chuck.net/comments_42.xml' sum = 2553.
-# acutal data: 'http://py4e-data.dr-chuck.net/comments_1730544.xml' sum ends with 71.
 #The data consists of a number of names and comment counts in XML as follows:
 # <comment>
 #   <name>Matthias</name>
